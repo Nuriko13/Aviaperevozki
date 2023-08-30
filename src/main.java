@@ -4,6 +4,6 @@ public class main {
         int price = 13676;
 
         int bonus = price / 20;
-        System.out.println("бонус " + bonus);
+        System.out.println("бонус: " + bonus);
     }
 }
